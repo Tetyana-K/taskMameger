@@ -1,0 +1,168 @@
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\obj\Debug\TaskManager.Web.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\TaskManager.Web.Tests.dll.config
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\TaskManager.Web.Tests.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\TaskManager.Web.Tests.pdb
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Microsoft.Data.Edm.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Microsoft.Data.OData.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Spatial.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Http.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Http.OData.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Razor.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\TaskManager.Web.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\TaskManager.Domain.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\EntityFramework.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\TaskManager.Web.pdb
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Http.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Razor.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Http.OData.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Microsoft.Data.Edm.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Microsoft.Data.OData.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Spatial.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\TaskManager.Domain.pdb
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\EntityFramework.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\de\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\es\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\fr\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\it\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\ja\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\ko\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\ru\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\obj\Debug\TaskManager.Web.Tests.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web.Tests\obj\Debug\TaskManager.Web.Tests.pdb
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\TaskManager.Web.Tests.dll.config
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\TaskManager.Web.Tests.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\TaskManager.Web.Tests.pdb
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Microsoft.Data.Edm.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Microsoft.Data.OData.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Spatial.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Http.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Http.OData.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Razor.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\TaskManager.Domain.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\TaskManager.Web.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\EntityFramework.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\TaskManager.Domain.pdb
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\TaskManager.Web.pdb
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Http.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Razor.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Web.Http.OData.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Microsoft.Data.Edm.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Microsoft.Data.OData.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\System.Spatial.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\EntityFramework.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\de\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\es\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\fr\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\it\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\ja\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\ko\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\ru\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\obj\Debug\TaskManager.Web.Tests.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\obj\Debug\TaskManager.Web.Tests.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web.Tests\obj\Debug\TaskManager.Web.Tests.pdb

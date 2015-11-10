@@ -1,0 +1,262 @@
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\obj\Debug\TaskManager.Web.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\TaskManager.Web.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\TaskManager.Web.pdb
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\Antlr3.Runtime.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.AspNet.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.Core.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OAuth.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OpenId.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\EntityFramework.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\Microsoft.Data.Edm.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\Microsoft.Data.OData.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\Newtonsoft.Json.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Net.Http.Formatting.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Spatial.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.Helpers.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.Http.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.Http.OData.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.Http.WebHost.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.Mvc.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.Optimization.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.Razor.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.WebPages.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.WebPages.Razor.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\TaskManager.Domain.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\WebGrease.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\WebMatrix.Data.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\WebMatrix.WebData.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\TaskManager.Domain.pdb
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\EntityFramework.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\Newtonsoft.Json.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Net.Http.Formatting.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.Helpers.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.Http.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.Http.WebHost.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.Mvc.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.Razor.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.WebPages.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.WebPages.Razor.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\WebMatrix.Data.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\WebMatrix.WebData.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.AspNet.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.Core.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OAuth.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OpenId.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Web.Http.OData.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\Microsoft.Data.Edm.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\Microsoft.Data.OData.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\System.Spatial.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\de\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\es\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\it\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\de\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\es\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\fr\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\it\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\ja\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\ko\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\ru\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\zh-Hans\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\bin\zh-Hant\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\obj\Debug\TaskManager.Web.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Web\obj\Debug\TaskManager.Web.pdb
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\TaskManager.Web.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\TaskManager.Web.pdb
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\Antlr3.Runtime.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.AspNet.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.Core.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OAuth.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OpenId.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\EntityFramework.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\Microsoft.Data.Edm.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\Microsoft.Data.OData.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\Newtonsoft.Json.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Net.Http.Formatting.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Spatial.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Helpers.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Http.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Http.OData.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Http.WebHost.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Mvc.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Optimization.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Razor.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.WebPages.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.WebPages.Razor.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\TaskManager.Domain.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\WebGrease.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\WebMatrix.Data.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\WebMatrix.WebData.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\TaskManager.Domain.pdb
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\EntityFramework.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\Newtonsoft.Json.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Net.Http.Formatting.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Helpers.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Http.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Http.WebHost.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Mvc.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Razor.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.WebPages.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.WebPages.Razor.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\WebMatrix.Data.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\WebMatrix.WebData.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.AspNet.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.Core.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OAuth.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OpenId.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Http.OData.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\Microsoft.Data.Edm.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\Microsoft.Data.OData.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\System.Spatial.xml
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\de\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\es\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\it\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\de\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\es\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\fr\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\it\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\ja\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\ko\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\ru\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\zh-Hans\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\bin\zh-Hant\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\obj\Debug\TaskManager.Web.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\obj\Debug\TaskManager.Web.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Web\obj\Debug\TaskManager.Web.pdb
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\TaskManager.Web.dll.config
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\TaskManager.Web.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\TaskManager.Web.pdb
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\Antlr3.Runtime.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.AspNet.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.Core.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OAuth.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OpenId.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\EntityFramework.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\Microsoft.Data.Edm.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\Microsoft.Data.OData.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\Microsoft.Web.Infrastructure.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\Newtonsoft.Json.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Net.Http.Formatting.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Spatial.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Helpers.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Http.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Http.OData.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Http.WebHost.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Mvc.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Optimization.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Razor.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.WebPages.Deployment.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.WebPages.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.WebPages.Razor.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\TaskManager.Domain.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\WebGrease.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\WebMatrix.Data.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\WebMatrix.WebData.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\TaskManager.Domain.pdb
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\EntityFramework.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\Newtonsoft.Json.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Net.Http.Formatting.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Helpers.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Http.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Http.WebHost.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Mvc.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Razor.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.WebPages.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.WebPages.Deployment.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.WebPages.Razor.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\WebMatrix.Data.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\WebMatrix.WebData.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.AspNet.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.Core.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OAuth.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OpenId.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Web.Http.OData.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\Microsoft.Data.Edm.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\Microsoft.Data.OData.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\System.Spatial.xml
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\de\Microsoft.Data.Edm.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\es\Microsoft.Data.Edm.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\it\Microsoft.Data.Edm.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\de\Microsoft.Data.OData.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\es\Microsoft.Data.OData.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\fr\Microsoft.Data.OData.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\it\Microsoft.Data.OData.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\ja\Microsoft.Data.OData.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\ko\Microsoft.Data.OData.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\ru\Microsoft.Data.OData.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\de\System.Spatial.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\es\System.Spatial.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\fr\System.Spatial.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\it\System.Spatial.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\ja\System.Spatial.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\ko\System.Spatial.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\ru\System.Spatial.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\zh-Hans\System.Spatial.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\bin\zh-Hant\System.Spatial.resources.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\obj\Debug\TaskManager.Web.csprojResolveAssemblyReference.cache
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\obj\Debug\TaskManager.Web.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Web\obj\Debug\TaskManager.Web.pdb

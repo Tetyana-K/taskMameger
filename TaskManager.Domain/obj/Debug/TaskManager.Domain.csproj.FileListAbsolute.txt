@@ -1,0 +1,15 @@
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Domain\bin\Debug\TaskManager.Domain.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Domain\bin\Debug\TaskManager.Domain.pdb
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Domain\obj\Debug\TaskManager.Domain.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Domain\obj\Debug\TaskManager.Domain.pdb
+D:\Lessons\ASP.NET MVC 4\001 Introduction\MVC4SampleProject\TaskManager.Domain\obj\Debug\TaskManager.Domain.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Domain\bin\Debug\TaskManager.Domain.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Domain\bin\Debug\TaskManager.Domain.pdb
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Domain\obj\Debug\TaskManager.Domain.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Domain\obj\Debug\TaskManager.Domain.dll
+D:\Lessons\ASP.NET MVC 4\001 Introduction\002 MVC4SampleProject\TaskManager.Domain\obj\Debug\TaskManager.Domain.pdb
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Domain\bin\Debug\TaskManager.Domain.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Domain\bin\Debug\TaskManager.Domain.pdb
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Domain\obj\Debug\TaskManager.Domain.csprojResolveAssemblyReference.cache
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Domain\obj\Debug\TaskManager.Domain.dll
+d:\Study\Books\ITVDN\20 [ITVDN] ASP.NET MVC 4\002 MVC4SampleProject\TaskManager.Domain\obj\Debug\TaskManager.Domain.pdb

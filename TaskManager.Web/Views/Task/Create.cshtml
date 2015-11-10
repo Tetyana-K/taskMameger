@@ -4,14 +4,14 @@
     ViewBag.Title = "Create";
 }
 
-<h2>Create</h2>
+<h2>Стсоврення нової задачі</h2>
 
 @using (Html.BeginForm()) {
     @Html.AntiForgeryToken()
     @Html.ValidationSummary(true)
 
     <fieldset>
-        <legend>Task</legend>
+        <legend>Задача</legend>
 
         <div class="editor-label">
             @Html.LabelFor(model => model.Name)
@@ -36,7 +36,7 @@
 }
 
 <div>
-    @Html.ActionLink("Back to List", "Index")
+    @Html.ActionLink("Повернутися до списку", "Index")
 </div>
 
 @section Scripts {
